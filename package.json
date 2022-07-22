@@ -16,6 +16,6 @@
   "author": "Alain Paulin Niyonkuru",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^18.2.4"
+    "electron": "^19.0.9"
   }
 }
